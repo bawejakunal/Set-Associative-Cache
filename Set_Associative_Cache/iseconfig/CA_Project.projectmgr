@@ -1,0 +1,298 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="1" owner="projectmgr" name="CA_Project" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes/>
+      <SelectedItems>
+         <SelectedItem>singleCycle (C:/Xilinx/12.2/ISE_DS/CA_Project/singleCycle.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000e7000000020000000000000000000000000000000064ffffffff000000810000000000000002000000e70000000100000000000000000000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>singleCycle (C:/Xilinx/12.2/ISE_DS/CA_Project/singleCycle.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNode>Design Utilities</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem/>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000000000000000000f8000000010000000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem/>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes/>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff000000810000000000000004000000420000000100000000000000240000000100000000000000660000000100000000000001b10000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>C:\Xilinx\12.2\ISE_DS\CA_Project\ALU.v</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNode>work</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000109000000010001000100000000000000000000000064ffffffff000000810000000000000001000001090000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNode>Design Utilities</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Add Existing Source</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000153000000010000000100000000000000000000000064ffffffff000000810000000000000001000001530000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Add Existing Source</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNode>/lineDM</ClosedNode>
+         <ClosedNode>/registerFile</ClosedNode>
+         <ClosedNode>/registerFile/rs - registerSet</ClosedNode>
+         <ClosedNode>/setDM</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/dDM0 - dirtyDM</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/tagDM0 - DMtag</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/vDM0 - validDM</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w1 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w10 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w11 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w12 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w13 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w14 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w15 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w16 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w2 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w3 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w4 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w5 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w6 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w7 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w8 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld0 - lineDM/w9 - DataWord</ClosedNode>
+         <ClosedNode>/setDM/ld1 - lineDM</ClosedNode>
+         <ClosedNode>/setDM/ld2 - lineDM</ClosedNode>
+         <ClosedNode>/setDM/ld3 - lineDM</ClosedNode>
+         <ClosedNode>/setDM/ld4 - lineDM</ClosedNode>
+         <ClosedNode>/setDM/ld5 - lineDM</ClosedNode>
+         <ClosedNode>/setDM/ld6 - lineDM</ClosedNode>
+         <ClosedNode>/setDM/ld7 - lineDM</ClosedNode>
+         <ClosedNode>/singleCycle</ClosedNode>
+         <ClosedNode>/singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW2 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/PC - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b1 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b10 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b11 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b12 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b13 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b14 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b15 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b16 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b17 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b18 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b19 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b2 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b20 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b21 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b22 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b23 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b24 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b25 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b26 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b27 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b28 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b29 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b3 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b30 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b31 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b4 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b5 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b6 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b7 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b8 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/RF0 - registerFile/rs - registerSet/b9 - register32bit</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/fif0 - FIFO</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/fif1 - FIFO</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/dDM0 - dirtyDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/tagDM0 - DMtag</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/vDM0 - validDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w1 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w10 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w11 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w12 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w13 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w14 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w15 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w16 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w2 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w3 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w4 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w5 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w6 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w7 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w8 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld0 - lineDM/w9 - DataWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld1 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld2 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld3 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld4 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld5 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld6 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd0 - setDM/ld7 - lineDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/dataMem - topDM/setd1 - setDM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW1 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW10 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW11 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW12 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW13 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW14 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW15 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW2 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW3 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW4 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW5 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW6 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW7 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW8 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/IW9 - InstrWord</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/t0 - tagIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l0 - lineIM/v0 - validIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l1 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l2 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l3 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l4 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l5 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l6 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set0 - setIM/l7 - lineIM</ClosedNode>
+         <ClosedNode>/testbench/uut - singleCycle/instrMem - topIM/set1 - setIM</ClosedNode>
+         <ClosedNode>/topDM</ClosedNode>
+         <ClosedNode>/topDM/fif0 - FIFO</ClosedNode>
+         <ClosedNode>/topDM/fif1 - FIFO</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/dDM0 - dirtyDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/tagDM0 - DMtag</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/vDM0 - validDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w1 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w10 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w11 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w12 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w13 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w14 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w15 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w16 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w2 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w3 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w4 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w5 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w6 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w7 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w8 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld0 - lineDM/w9 - DataWord</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld1 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld2 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld3 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld4 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld5 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld6 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd0 - setDM/ld7 - lineDM</ClosedNode>
+         <ClosedNode>/topDM/setd1 - setDM</ClosedNode>
+         <ClosedNode>/topIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW0 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW1 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW10 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW11 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW12 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW13 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW14 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW15 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW2 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW3 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW4 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW5 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW6 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW7 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW8 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/IW9 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/t0 - tagIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l0 - lineIM/v0 - validIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l1 - lineIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l2 - lineIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l3 - lineIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l4 - lineIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l5 - lineIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW0 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW1 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW10 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW11 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW12 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW13 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW14 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW15 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW2 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW3 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW4 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW5 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW6 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW7 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW8 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/IW9 - InstrWord</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/t0 - tagIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l6 - lineIM/v0 - validIM</ClosedNode>
+         <ClosedNode>/topIM/set0 - setIM/l7 - lineIM</ClosedNode>
+         <ClosedNode>/topIM/set1 - setIM</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>testbench (C:/Xilinx/12.2/ISE_DS/CA_Project/testbench.v)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000000dd000000020000000000000000000000000000000064ffffffff000000810000000000000002000000dd0000000100000000000000000000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>testbench (C:/Xilinx/12.2/ISE_DS/CA_Project/testbench.v)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes/>
+      <SelectedItems>
+         <SelectedItem>Update All Schematic Files</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000146000000010000000100000000000000000000000064ffffffff000000810000000000000001000001460000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Update All Schematic Files</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VERILOG" guiview="Process" >
+      <ClosedNodes/>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000000000000000000146000000010000000100000000000000000000000064ffffffff000000810000000000000001000001460000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011b0000011b01000000050100000002</SourceProcessView>
+   <CurrentView>Behavioral Simulation</CurrentView>
+</Project>

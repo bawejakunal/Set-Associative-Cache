@@ -1,0 +1,111 @@
+Running: C:\Xilinx\12.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib uni9000_ver -lib aim_ver -lib cpld_ver -lib xilinxcorelib_ver -o C:/Xilinx/12.2/ISE_DS/CA_Project/testbench_isim_beh.exe -prj C:/Xilinx/12.2/ISE_DS/CA_Project/testbench_beh.prj work.testbench work.glbl 
+ISim M.63c (signature 0x7dea747)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/D_ff_Instr.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/validIM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/validDM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/tagIM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux2to1_32bits.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/InstrWord.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/D_ff.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/DMtag.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/dirtyDM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/decoder4to16.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/DataWord.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/register32bit.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/prio_Enc.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux8to1_64B.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux8to1_3bits.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux2to1_8bits.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux2to1_3bits.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux16to1_32bit.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/lineIM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/lineDM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/lineCounter.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/Encoder8to3.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/decoder3to8.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/comparator3bit.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/comparator25bit.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/comparator1bit.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/AGtB.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/setIM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/setDM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/registerSet.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux32to1.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/FIFO.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/decoder5to32.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/decoder1to2.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/zExt_5to32.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/zExt.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/topIM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/topDM.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/shifter.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/sExt.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/registerFile.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux4to1_32bits.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/mux2to1_5bits.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/CtrlCkt.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/ALU.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/adder.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/singleCycle.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/CA_Project/testbench.v\" into library work
+Analyzing Verilog file \"C:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v\" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling module D_ff
+Compiling module register32bit
+Compiling module adder
+Compiling module decoder1to2
+Compiling module decoder3to8
+Compiling module D_ff_Mem
+Compiling module InstrWord
+Compiling module tagIM
+Compiling module validIM
+Compiling module lineIM
+Compiling module comparator25bit
+Compiling module Encoder8to3
+Compiling module mux8to1_64B
+Compiling module mux16to1_32bit
+Compiling module setIM
+Compiling module mux2to1_32bits
+Compiling module topIM
+Compiling module sExt
+Compiling module zExt
+Compiling module zExt_5to32
+Compiling module CtrlCkt
+Compiling module mux2to1_5bits
+Compiling module decoder5to32
+Compiling module registerSet
+Compiling module mux32to1
+Compiling module registerFile
+Compiling module mux4to1_32bits
+Compiling module ALU
+Compiling module decoder4to16
+Compiling module DataWord
+Compiling module DMtag
+Compiling module validDM
+Compiling module dirtyDM
+Compiling module lineDM
+Compiling module setDM
+Compiling module comparator1bit
+Compiling module prio_Enc
+Compiling module mux8to1_3bits
+Compiling module AGtB
+Compiling module comparator3bit
+Compiling module mux2to1_8bits
+Compiling module lineCounter
+Compiling module mux2to1_3bits
+Compiling module FIFO
+Compiling module topDM
+Compiling module shifter
+Compiling module singleCycle
+Compiling module testbench
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Waiting for 40 sub-compilation(s) to finish...
+Compiled 49 Verilog Units
+Built simulation executable C:/Xilinx/12.2/ISE_DS/CA_Project/testbench_isim_beh.exe
+Fuse Memory Usage: 18704 KB
+Fuse CPU Usage: 686 ms

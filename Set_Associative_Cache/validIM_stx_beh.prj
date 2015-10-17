@@ -1,0 +1,3 @@
+verilog isim_temp "D_ff_Instr.v"
+verilog isim_temp "validIM.v"
+verilog isim_temp "C:/Xilinx/12.2/ISE_DS/ISE//verilog/src/glbl.v"

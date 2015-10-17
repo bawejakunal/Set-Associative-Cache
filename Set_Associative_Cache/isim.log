@@ -1,0 +1,13 @@
+ISim log file
+Running: C:\Xilinx\12.2\ISE_DS\CA_Project\testbench_isim_beh.exe -gui -tclbatch isim.cmd -wdb C:/Xilinx/12.2/ISE_DS/CA_Project/testbench_isim_beh.wdb 
+ISim M.63c (signature 0x7dea747)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+                   0 ALUOut= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx hit=x dataMem=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx writeData         x
+                   5 ALUOut= xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx hit=0 dataMem=xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx writeData         x
+Stopped at time : 62 ns : File "C:/Xilinx/12.2/ISE_DS/CA_Project/testbench.v" Line 189
