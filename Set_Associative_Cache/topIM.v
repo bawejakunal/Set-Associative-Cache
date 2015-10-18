@@ -26,7 +26,6 @@ wire [1:0] decOut,Hit,setSelect;
 wire [31:0] outBus0,outBus1;
 wire [7:0] decOut2;
 
-
 decoder1to2 decSet(cpuAddress[6],decOut); //to select read set
 
 decoder1to2 decSetW(set,setSelect); //to select write set
@@ -43,6 +42,5 @@ always@(Hit,tag0,line0)
  cacheHit=Hit[0]|Hit[1];
  
 mux2to1_32bits muWord(outBus0,outBus1,cpuAddress[6],cpuWord);
-
 
 endmodule
